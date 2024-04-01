@@ -1,4 +1,4 @@
-配置文件[ata/webstack.yml](https://github.com/sunshine504/vercel/blob/main/data/webstack.yml)
+配置文件[data/webstack.yml](https://github.com/sunshine504/vercel/blob/main/data/webstack.yml)
 ---
 ## 其他修改[themes/WebStack-Hugo/layouts/partials](https://github.com/sunshine504/vercel/tree/main/themes/WebStack-Hugo/layouts/partials)
 ## 这是 Hugo 版 WebStack 主题
