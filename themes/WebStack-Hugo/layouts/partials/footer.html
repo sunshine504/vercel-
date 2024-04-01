@@ -139,25 +139,25 @@ document.getElementById(id).innerHTML = "sunshine是真的菜：" + RunTime;
 setInterval("ShowRunTime('RunTime')", 1000);
 </script>
 <script>
-    // 弹窗效果
-    const Toast = Swal.mixin({
-            toast: true,
-            position: 'bottom',
-            showConfirmButton: false,
-            timer: 3000,
-            timerProgressBar: true,
-            didOpen: (toast) => {
-                toast.addEventListener('mouseenter', Swal.stopTimer)
-                toast.addEventListener('mouseleave', Swal.resumeTimer)
-            }
-        })
+     // 弹窗效果
+   // const Toast = Swal.mixin({
+   //         toast: true,
+   //         position: 'bottom',
+   //         showConfirmButton: false,
+   //         timer: 3000,
+   //         timerProgressBar: true,
+   //         didOpen: (toast) => {
+   //             toast.addEventListener('mouseenter', Swal.stopTimer)
+   //             toast.addEventListener('mouseleave', Swal.resumeTimer)
+   //         }
+   //     })
 
-        Toast.fire({
-            icon: 'success',
-            title: '网页正式发布，欢迎访问',
-            text: '左下角提交网站，收录！',
-            heightAuto: 'false'
-        })
+   //     Toast.fire({
+   //         icon: 'success',
+   //         title: '网页正式发布，欢迎访问',
+   //         text: '左下角提交网站，收录！',
+   //         heightAuto: 'false'
+   //     })
 </script>
 </body>
 </html>
