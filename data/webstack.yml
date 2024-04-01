@@ -10,23 +10,22 @@
       logo: chatgpt.ico
       url: https://gpt.anrsn.icu/
       description: 不需要加速也能上
-    - title: 关于我
-      logo: 关于我.ico
-      url: https://doks.xazz.top/blog/
-      qrcode: assets/images/my.png
-      description: 站长的个人介绍
-    - title: 文档库
-      logo: doks.ico
-      url: https://doks.xazz.top
-      description: 小A猪崽的文档库
-    - title: 探针
-      logo: 探针.svg
-      url: https://vps.xazz.top/
-      description: 哪吒探针管理
-    - title: 开源
+    - title: Steam
+      logo: steam.ico
+      url: https://store.steampowered.com/
+      description: 大伙都在玩的游戏平台
+    - title: 哔哩哔哩
+      logo: bilibili.ico
+      url: https://bilibili.com/
+      description: 年轻人的视频平台
+    - title: GitHub
       logo: github.ico
       url: https://github.com/i-kirito/nav.github.io
       description: 导航站GitHub开源
+    - title: gitee
+      logo: gitee.ico
+      url: https://gitee.com/sunshine504
+      description: gitee开源
     - title: Chatgpt
       logo: openai.ico
       url: https://chat.openai.com/
@@ -35,14 +34,11 @@
       logo: wallhaven.ico
       url: https://wallhaven.cc
       description: 一个非常丰富的图库网
-    - title: 哔哩哔哩
-      logo: bilibili.ico
-      url: https://bilibili.com/
-      description: 年轻人的视频平台
-    - title: Steam
-      logo: steam.ico
-      url: https://store.steampowered.com/
-      description: 大伙都在玩的游戏平台
+    - title: 关于我
+      logo: 关于我.ico
+      url: https://doks.xazz.top/blog/
+      qrcode: assets/images/my.png
+      description: 站长的个人介绍
     - title: Notion
       logo: notion.png
       url: https://www.notion.so/
