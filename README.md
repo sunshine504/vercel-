@@ -1,5 +1,6 @@
-配置文件data/webstack.yml
+配置文件[ata/webstack.yml](https://github.com/sunshine504/vercel/blob/main/data/webstack.yml)
 ---
+## 其他修改[themes/WebStack-Hugo/layouts/partials](https://github.com/sunshine504/vercel/tree/main/themes/WebStack-Hugo/layouts/partials)
 ## 这是 Hugo 版 WebStack 主题
 
 本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
