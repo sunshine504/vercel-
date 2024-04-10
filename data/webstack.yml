@@ -52,6 +52,14 @@
       url: https://www.google.com/
       description: 谷歌搜索，最好用的搜索引擎
     
+   - title: Printables
+          url: https://www.printables.com/
+          logo: Printables.ico
+          description: Printables
+          - title: Makerworl
+          url: https://makerworld.com/zh
+          logo: Makerworld.ico
+          description: Makerworl
     
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
