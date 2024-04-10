@@ -47,10 +47,7 @@
       logo: Thingiverse.ico
       url: https://www.thingiverse.com/
       description: Thingiverse
-    - title: Chrome
-      logo: google.ico
-      url: https://www.google.com/
-      description: 谷歌搜索，最好用的搜索引擎
+
     
    - title: Printables
           url: https://www.printables.com/
