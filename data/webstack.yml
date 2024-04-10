@@ -39,22 +39,18 @@
       url: https://doks.xazz.top/blog/
       qrcode: assets/images/my.png
       description: 站长的个人介绍
-    - title: Notion
-      logo: notion.png
-      url: https://www.notion.so/
-      description: Notion笔记，简洁便利
     - title: Thingiverse
       logo: Thingiverse.ico
       url: https://www.thingiverse.com/
       description: Thingiverse
     - title: Printables
       logo: Printables.ico
-          url: https://www.printables.com/
-          description: Printables
-          - title: Makerworl
-          url: https://makerworld.com/zh
-          logo: Makerworld.ico
-          description: Makerworl
+      url: https://www.printables.com/
+      description: Printables
+    - title: Makerworl
+      url: https://makerworld.com/zh
+      logo: Makerworld.ico
+      description: Makerworl
     
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
