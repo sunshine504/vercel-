@@ -47,12 +47,9 @@
       logo: Thingiverse.ico
       url: https://www.thingiverse.com/
       description: Thingiverse
-
-    
-   - title: Printables
-   logo: Printables.ico
+    - title: Printables
+      logo: Printables.ico
           url: https://www.printables.com/
-          logo: Printables.ico
           description: Printables
           - title: Makerworl
           url: https://makerworld.com/zh
