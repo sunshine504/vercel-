@@ -30,10 +30,10 @@
       logo: openai.ico
       url: https://chat.openai.com/
       description: OpeanAi官方
-    - title: Wallhaven
-      logo: wallhaven.ico
-      url: https://wallhaven.cc
-      description: 一个非常丰富的图库网
+    - title: OSHWhub
+      logo: OSHWhub.ico
+      url: https://oshwhub.com/
+      description: 立创开源平台
     - title: 关于我
       logo: 关于我.ico
       url: https://doks.xazz.top/blog/
