@@ -47,14 +47,10 @@
       logo: Printables.ico
       url: https://www.printables.com/
       description: Printables
-    - title: Makerworl
+    - title: Makerworld
       logo: Makerworld.ico
       url: https://makerworld.com/zh
-      description: Makerworl
-    - title: DSLZL
-      logo: Makerworld.ico
-      url: https://dslzl.top/
-      description: DSLZL
+      description: Makerworld
     
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
