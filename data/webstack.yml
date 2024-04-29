@@ -51,6 +51,10 @@
       logo: Makerworld.ico
       url: https://makerworld.com/zh
       description: Makerworl
+    - title: DSLZL
+      logo: Makerworld.ico
+      url: https://dslzl.top/
+      description: DSLZL
     
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
