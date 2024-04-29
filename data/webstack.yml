@@ -20,7 +20,7 @@
       description: 年轻人的视频平台
     - title: GitHub
       logo: github.ico
-      url: https://github.com/sunshine504
+      url: https://github.com/dslzl/vercel
       description: 导航站GitHub开源
     - title: gitee
       logo: gitee.ico
@@ -327,11 +327,15 @@
         - title: mcbbs
           logo: mcbbs.ico
           url: https://www.mcbbs.net/forum.php
-          description: 我的世界中文官方论坛
+          description: 我的世界中文官方论坛(已失效)
         - title: Curseforge
           logo: mod.ico
           url: https://www.curseforge.com/minecraft/modpacks
           description: 我的世界最全mod网站
+        - title: Modrinth
+          logo: modrinth.ico
+          url: https://modrinth.com/
+          description: 我的世界新晋MOD网站
         - title: Nexus Mods
           logo: nexus.webp
           url: https://www.nexusmods.com/
