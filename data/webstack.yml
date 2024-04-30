@@ -391,6 +391,10 @@
           logo: 坚果云.ico
           usrl: https://www.jianguoyun.com/
           description: 任何设备，随时随地实现文件共享
+        - title: Userscloud
+          logo: userscloud.ico
+          url: https://userscloud.com/
+          description: (叼爆啦)咳,完全免费,无限容量,无限带宽,国内可访问,下载速度较快,4.5星,扣半颗是因为国内问题下载速度因人而异
 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
@@ -467,7 +471,7 @@
         - title: Pixiv
           logo: pixiv.ico
           url: https://www.pixiv.net/
-          description: 大名鼎鼎的P站
+          description: 大名鼎鼎的P站(众所周知P站不止一个)
         - title: ProcessOn
           logo: ProcessOn.ico
           url: https://www.processon.com/
@@ -518,7 +522,7 @@
         - title: Google Font
           url: https://fonts.google.com/
           logo: googlefont.ico
-          description: Making the web more beautiful, fast, and open through great typography
+          description: 通过出色的排版使网络更加美观、快速和开放
         - title: Typekit
           url: https://typekit.com/
           logo: typekit.ico
@@ -542,11 +546,11 @@
         - title: Fontsquirrel
           url: https://www.fontsquirrel.com/
           logo: fontsquirrel.ico
-          description: FREE fonts for graphic designers
+          description: 为图形设计师提供的免费字体
         - title: FONTS2U
           url: https://fonts2u.com/
           logo: fonts2u.ico
-          description: Download free fonts for Windows and Macintosh
+          description: 下载适用于 Windows 和 Mac 的免费字体
         - title: FontM
           url: http://fontm.com/
           logo: FontM.ico
