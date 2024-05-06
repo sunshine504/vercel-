@@ -52,10 +52,10 @@
       url: https://makerworld.com/zh
       description: Makerworl
     
-- taxonomy: Web应用
+- taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: 常用站点
+    - term: Web应用
       links:
         - title: 蓝奏云 
           logo: 蓝奏云.ico
@@ -73,6 +73,51 @@
           logo: 1panel.png
           url: https://1panel.cn/
           description: 开源的服务器web管理面板
+        - title: GitHub主页美化
+          logo: fork.ico
+          url: https://zzetao.github.io/awesome-github-profile/
+          description: 查看GitHub开源作者的美化fork他们
+        - title: Runoob
+          logo: cainiao.ico
+          url: https://www.runoob.com/
+          description: Web菜鸟教程
+        - title: Markdown
+          logo: markdown.ico
+          url: https://markdown.com.cn/
+          description: markdown语法教程
+        - title: jQuery插件库
+          logo: jquary.ico
+          url: https://www.jq22.com/
+          description: 收集最全最新最好的js插件
+        - title: jQuery之家
+          logo: js之家.ico
+          url: http://www.htmleaf.com/
+          description: 扩展你的js插件库
+        - title: 像素大厨
+          logo: fancynode.png
+          url: https://www.fancynode.com.cn/
+          description: 从设计到代码，让团队高效协作
+        - title: Bootstrap Studio
+          logo: bs.ico
+          url: https://bootstrapstudio.io/
+          description: 编辑web网站，无需代码
+        - title: CodePen
+          logo: codepen.ico
+          url: https://codepen.io/
+          description: 免费下载css和js模板
+        - title: Zion
+          logo: zion.ico
+          url: https://www.functorz.com/
+          description: 无代码开发微信小程序
+        - title: Markdown-badges
+          logo: badges.png
+          url: https://ileriayo.github.io/markdown-badges/
+          description: 获取markdown写法的badges包
+        - title: 1panel 
+          logo: 1panel.png
+          url: https://1panel.cn/
+          description: 开源的服务器web管理面板
+
 
     - term: 云服务器
       links:
