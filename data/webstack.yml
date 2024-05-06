@@ -6,32 +6,26 @@
       logo: haidao.ico
       url: https://www.anrsn.icu/
       description: 云剪切板
-      
     - title: Chatgpt镜像
       logo: chatgpt.ico
       url: https://gpt.anrsn.icu/
       description: 不需要加速也能上
-      
     - title: Steam
       logo: steam.ico
       url: https://store.steampowered.com/
       description: 大伙都在玩的游戏平台
-      
     - title: 哔哩哔哩
       logo: 哔哩哔哩.ico
       url: https://www.bilibili.com/
       description: Bilibili 视频弹幕网站
-      
     - title: GitHub
       logo: github.ico
       url: https://github.com/sunshine504
       description: 导航站GitHub开源
-      
     - title: gitee
       logo: gitee.ico
       url: https://gitee.com/sunshine504
       description: gitee开源
-      
     - title: Chatgpt
       logo: openai.ico
       url: https://chat.openai.com/
@@ -40,23 +34,19 @@
       logo: OSHWhub.ico
       url: https://oshwhub.com/
       description: 立创开源平台
-      
     - title: 关于我
       logo: 关于我.ico
       url: https://doks.xazz.top/blog/
       qrcode: assets/images/my.png
       description: 站长的个人介绍
-      
     - title: Thingiverse
       logo: Thingiverse.ico
       url: https://www.thingiverse.com/
       description: Thingiverse
-      
     - title: Printables
       logo: Printables.ico
       url: https://www.printables.com/
       description: Printables
-      
     - title: Makerworl
       logo: Makerworld.ico
       url: https://makerworld.com/zh
@@ -67,7 +57,6 @@
   list:
     - term: 常用站点
       links:
-      
       - title: 蓝奏云 
           logo: 蓝奏云.ico
           url: https://pc.woozooo.com/
@@ -76,12 +65,10 @@
           logo: feijipan.ico
           url: https://www.feijipan.com/
           description: 都可以分享
-          
        - title: 123云盘 
           logo: 123.png
           url: https://www.123pan.com/
           description: 不能分享音乐
-          
         - title: 1panel 
           logo: 1panel.png
           url: https://1panel.cn/
