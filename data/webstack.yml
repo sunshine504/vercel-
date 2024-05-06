@@ -6,26 +6,32 @@
       logo: haidao.ico
       url: https://www.anrsn.icu/
       description: 云剪切板
+      
     - title: Chatgpt镜像
       logo: chatgpt.ico
       url: https://gpt.anrsn.icu/
       description: 不需要加速也能上
+      
     - title: Steam
       logo: steam.ico
       url: https://store.steampowered.com/
       description: 大伙都在玩的游戏平台
+      
     - title: 哔哩哔哩
-      logo: bilibili.ico
-      url: https://bilibili.com/
-      description: 年轻人的视频平台
+      logo: 哔哩哔哩.ico
+      url: https://www.bilibili.com/
+      description: Bilibili 视频弹幕网站
+      
     - title: GitHub
       logo: github.ico
       url: https://github.com/sunshine504
       description: 导航站GitHub开源
+      
     - title: gitee
       logo: gitee.ico
       url: https://gitee.com/sunshine504
       description: gitee开源
+      
     - title: Chatgpt
       logo: openai.ico
       url: https://chat.openai.com/
@@ -34,19 +40,23 @@
       logo: OSHWhub.ico
       url: https://oshwhub.com/
       description: 立创开源平台
+      
     - title: 关于我
       logo: 关于我.ico
       url: https://doks.xazz.top/blog/
       qrcode: assets/images/my.png
       description: 站长的个人介绍
+      
     - title: Thingiverse
       logo: Thingiverse.ico
       url: https://www.thingiverse.com/
       description: Thingiverse
+      
     - title: Printables
       logo: Printables.ico
       url: https://www.printables.com/
       description: Printables
+      
     - title: Makerworl
       logo: Makerworld.ico
       url: https://makerworld.com/zh
@@ -55,64 +65,23 @@
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: Web应用
+    - term: 常用站点
       links:
-        - title: 编程词典
-          url: http://dict.code-nav.cn/
-          logo: 编程词典.svg
-          description: 编程语言相关知识查询
-        - title: W3School
-          logo: W3School.ico
-          url: https://www.w3school.com.cn
-          description: 你可以找到你所需要的所有的网站建设教程
-        - title: Mozilla开发者社区
-          logo: mo.ico
-          url: https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web
-          description: MDN系统化学习web吧
-        - title: jsDelivr
-          logo: js.ico
-          url: https://www.jsdelivr.com/
-          description: 利用jsdelivr加速自己的图床
-        - title: GitHub主页美化
-          logo: fork.ico
-          url: https://zzetao.github.io/awesome-github-profile/
-          description: 查看GitHub开源作者的美化fork他们
-        - title: Runoob
-          logo: cainiao.ico
-          url: https://www.runoob.com/
-          description: Web菜鸟教程
-        - title: Markdown
-          logo: markdown.ico
-          url: https://markdown.com.cn/
-          description: markdown语法教程
-        - title: jQuery插件库
-          logo: jquary.ico
-          url: https://www.jq22.com/
-          description: 收集最全最新最好的js插件
-        - title: jQuery之家
-          logo: js之家.ico
-          url: http://www.htmleaf.com/
-          description: 扩展你的js插件库
-        - title: 像素大厨
-          logo: fancynode.png
-          url: https://www.fancynode.com.cn/
-          description: 从设计到代码，让团队高效协作
-        - title: Bootstrap Studio
-          logo: bs.ico
-          url: https://bootstrapstudio.io/
-          description: 编辑web网站，无需代码
-        - title: CodePen
-          logo: codepen.ico
-          url: https://codepen.io/
-          description: 免费下载css和js模板
-        - title: Zion
-          logo: zion.ico
-          url: https://www.functorz.com/
-          description: 无代码开发微信小程序
-        - title: Markdown-badges
-          logo: badges.png
-          url: https://ileriayo.github.io/markdown-badges/
-          description: 获取markdown写法的badges包
+      - title: 蓝奏云
+          logo: 蓝奏云.ico
+          url: https://pc.woozooo.com/
+          description: 上传文件格式限制
+          
+       - title: 小飞机网盘 
+          logo: feijipan.ico
+          url: https://www.feijipan.com/
+          description: 都可以分享
+          
+       - title: 123云盘 
+          logo: 123.png
+          url: https://www.123pan.com/
+          description: 不能分享音乐
+          
         - title: 1panel 
           logo: 1panel.png
           url: https://1panel.cn/
