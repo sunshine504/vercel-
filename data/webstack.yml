@@ -55,7 +55,7 @@
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: Web应用
+    - term: 常用收藏
       links:
         - title: 蓝奏云 
           logo: 蓝奏云.ico
