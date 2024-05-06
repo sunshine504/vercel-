@@ -2,55 +2,55 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 小A猪崽
-      logo: xazz.ico
-      url: https://nav.xazz.top
-      description: 丰富的导航站
-    - title: 博客
-      logo: 博客.ico
-      url: https://ikirito.me/
-      description: 站长的博客
+    - title: 云剪切板
+      logo: haidao.ico
+      url: https://www.anrsn.icu/
+      description: 云剪切板
+    - title: Chatgpt镜像
+      logo: chatgpt.ico
+      url: https://gpt.anrsn.icu/
+      description: 不需要加速也能上
+    - title: Steam
+      logo: steam.ico
+      url: https://store.steampowered.com/
+      description: 大伙都在玩的游戏平台
+    - title: 哔哩哔哩
+      logo: 哔哩哔哩.ico
+      url: https://www.bilibili.com/
+      description: Bilibili 视频弹幕网站
+    - title: GitHub
+      logo: github.ico
+      url: https://github.com/sunshine504
+      description: 导航站GitHub开源
+    - title: gitee
+      logo: gitee.ico
+      url: https://gitee.com/sunshine504
+      description: gitee开源
+    - title: Chatgpt
+      logo: openai.ico
+      url: https://chat.openai.com/
+      description: OpeanAi官方
+    - title: OSHWhub
+      logo: OSHWhub.ico
+      url: https://oshwhub.com/
+      description: 立创开源平台
     - title: 关于我
       logo: 关于我.ico
       url: https://doks.xazz.top/blog/
       qrcode: assets/images/my.png
       description: 站长的个人介绍
-    - title: 文档库
-      logo: doks.ico
-      url: https://doks.xazz.top
-      description: 小A猪崽的文档库
-    - title: 探针
-      logo: 探针.svg
-      url: https://vps.xazz.top/
-      description: 哪吒探针管理
-    - title: 开源
-      logo: github.ico
-      url: https://github.com/i-kirito/nav.github.io
-      description: 导航站GitHub开源
-    - title: Chatgpt镜像
-      logo: chatgpt.ico
-      url: https://chat.xazz.top/
-      description: 不需要加速也能上
-    - title: Wallhaven
-      logo: wallhaven.ico
-      url: https://wallhaven.cc
-      description: 一个非常丰富的图库网
-    - title: 哔哩哔哩
-      logo: bilibili.ico
-      url: https://bilibili.com/
-      description: 年轻人的视频平台
-    - title: Steam
-      logo: steam.ico
-      url: https://store.steampowered.com/
-      description: 大伙都在玩的游戏平台
-    - title: Notion
-      logo: notion.png
-      url: https://www.notion.so/
-      description: Notion笔记，简洁便利
-    - title: Chrome
-      logo: google.ico
-      url: https://www.google.com/
-      description: 谷歌搜索，最好用的搜索引擎
+    - title: Thingiverse
+      logo: Thingiverse.ico
+      url: https://www.thingiverse.com/
+      description: Thingiverse
+    - title: Printables
+      logo: Printables.ico
+      url: https://www.printables.com/
+      description: Printables
+    - title: Makerworl
+      logo: Makerworld.ico
+      url: https://makerworld.com/zh
+      description: Makerworl
 
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
