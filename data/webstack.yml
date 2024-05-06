@@ -62,7 +62,7 @@
       url: https://makerworld.com/zh
       description: Makerworl
     
-- taxonomy: 编程学习
+- taxonomy: Web应用
   icon: fas fa-laptop-code fa-lg
   list:
     - term: 常用站点
