@@ -15,9 +15,9 @@
       url: https://store.steampowered.com/
       description: 大伙都在玩的游戏平台
     - title: 哔哩哔哩
-      logo: 哔哩哔哩.ico
-      url: https://www.bilibili.com/
-      description: Bilibili 视频弹幕网站
+      logo: bilibili.ico
+      url: https://bilibili.com/
+      description: 年轻人的视频平台
     - title: GitHub
       logo: github.ico
       url: https://github.com/sunshine504
@@ -57,22 +57,22 @@
   list:
     - term: Web应用
       links:
-        - title: 蓝奏云 
-          logo: 蓝奏云.ico
-          url: https://pc.woozooo.com/
-          description: 上传文件格式有限制
-        - title: 小飞机网盘
-          logo: feijipan.ico
-          url: https://www.feijipan.com/
-          description: 都可以分享
-       - title: 123云盘 
-          logo: 123.png
-          url: https://www.123pan.com/
-          description: 不能分享音乐
-        - title: 1panel 
-          logo: 1panel.png
-          url: https://1panel.cn/
-          description: 开源的服务器web管理面板
+        - title: 编程词典
+          url: http://dict.code-nav.cn/
+          logo: 编程词典.svg
+          description: 编程语言相关知识查询
+        - title: W3School
+          logo: W3School.ico
+          url: https://www.w3school.com.cn
+          description: 你可以找到你所需要的所有的网站建设教程
+        - title: Mozilla开发者社区
+          logo: mo.ico
+          url: https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web
+          description: MDN系统化学习web吧
+        - title: jsDelivr
+          logo: js.ico
+          url: https://www.jsdelivr.com/
+          description: 利用jsdelivr加速自己的图床
         - title: GitHub主页美化
           logo: fork.ico
           url: https://zzetao.github.io/awesome-github-profile/
@@ -117,7 +117,6 @@
           logo: 1panel.png
           url: https://1panel.cn/
           description: 开源的服务器web管理面板
-
 
     - term: 云服务器
       links:
