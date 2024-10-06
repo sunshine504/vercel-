@@ -34,11 +34,10 @@
       logo: OSHWhub.ico
       url: https://oshwhub.com/
       description: 立创开源平台
-    - title: 关于我
-      logo: 关于我.ico
-      url: https://doks.xazz.top/blog/
-      qrcode: assets/images/my.png
-      description: 站长的个人介绍
+    - title: Cloudflare
+      logo: cloudflare.ico
+      url: https://www.cloudflare.com/zh-cn/
+      description: 大伙都知道的CF
     - title: Thingiverse
       logo: Thingiverse.ico
       url: https://www.thingiverse.com/
@@ -74,10 +73,10 @@
           url: https://1panel.cn/
           description: 开源的服务器web管理面板
           description: 利用jsdelivr加速自己的图床
-        - title: GitHub主页美化
-          logo: fork.ico
-          url: https://zzetao.github.io/awesome-github-profile/
-          description: 查看GitHub开源作者的美化fork他们
+        - title: 嘉立创EDA
+          logo: 嘉立创.png
+          url: https://u.lceda.cn/account/user/projects/all
+          description: 嘉立创EDA
         - title: Runoob
           logo: cainiao.ico
           url: https://www.runoob.com/
