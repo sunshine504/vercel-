@@ -40,6 +40,9 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
+      - name: Check Hugo version
+        run: hugo version
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -48,9 +51,8 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: List generated files
-        run: ls -R ./public  # 确保 public 文件夹存在
+          echo "Hugo build completed"
+          ls -R ./public  # 列出 public 目录
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
