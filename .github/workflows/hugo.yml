@@ -25,9 +25,6 @@ jobs:
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -38,7 +35,9 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        run: |
+          npm install -g sass
+          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
 
       - name: Check Hugo version
         run: hugo version
@@ -52,12 +51,12 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
           echo "Hugo build completed"
-          ls -R ./public  # 列出 public 目录
+          ls -R ./docs  # 列出 docs 目录
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./docs
 
   deploy:
     environment:
