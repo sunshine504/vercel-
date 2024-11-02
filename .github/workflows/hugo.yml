@@ -1,9 +1,9 @@
-name: Deploy to GitHub Pages
+name: Deploy Hugo Site
 
 on:
   push:
     branches:
-      - main
+      - main  # 触发事件：推送到 main 分支
 
 jobs:
   build:
@@ -13,21 +13,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          node-version: '14'
+          hugo-version: 'latest'  # 指定 Hugo 的版本
 
-      - name: Install dependencies
-        run: npm install
+      - name: Build the site
+        run: hugo --minify  # 构建网站并压缩输出文件
 
-      - name: Build project
-        run: npm run build  # 根据项目需求修改，例如 React 是 npm run build，Next.js 是 next build && next export
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs
-          git commit -m 'Deploy to GitHub Pages' || echo "No changes to commit"
-          git push origin main
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public  # Hugo 默认生成的输出目录
