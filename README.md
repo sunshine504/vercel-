@@ -17,14 +17,14 @@
 ## 项目成立于 2023 年 3 月 30日
 - 这是本人第一次真正意义上使用 *vercel* 搭建网页，减少自购的阿里云学生云服务器本身的负载。
 - 域名托管利用 *Cloudflare* 加速，以保证访问速度和避免备案的麻烦。
+- 可一键github pages部署
 
 ## 主题演示地址
 
-- [小 A 猪崽](https://nav.xazz.top/)
+- [sunshine](https://www.anrsn.icu/)
   
 | 完成度      | 自定义修改 | 
 | :---       |   :----:  | 
 - [x] 导航栏样式（个人感觉更好看）
 
-### 爱发电支持我 *！*
-[微信支付](https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/wechat.png) | [支付宝](https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/alipay.png) | [PayPal](https://www.paypal.com/paypalme/ikirito9)
+
