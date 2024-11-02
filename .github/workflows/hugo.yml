@@ -47,8 +47,10 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            -D  # 添加 -D 选项以包含草稿
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: List generated files
+        run: ls -R ./public  # 确保 public 文件夹存在
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
