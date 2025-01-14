@@ -77,101 +77,29 @@
           logo: 嘉立创.png
           url: https://u.lceda.cn/account/user/projects/all
           description: 嘉立创EDA
-        - title: Runoob
-          logo: cainiao.ico
-          url: https://www.runoob.com/
-          description: Web菜鸟教程
-        - title: Markdown
-          logo: markdown.ico
-          url: https://markdown.com.cn/
-          description: markdown语法教程
-        - title: jQuery插件库
-          logo: jquary.ico
-          url: https://www.jq22.com/
-          description: 收集最全最新最好的js插件
-        - title: jQuery之家
-          logo: js之家.ico
-          url: http://www.htmleaf.com/
-          description: 扩展你的js插件库
-        - title: 像素大厨
-          logo: fancynode.png
-          url: https://www.fancynode.com.cn/
-          description: 从设计到代码，让团队高效协作
-        - title: Bootstrap Studio
-          logo: bs.ico
-          url: https://bootstrapstudio.io/
-          description: 编辑web网站，无需代码
-        - title: CodePen
-          logo: codepen.ico
-          url: https://codepen.io/
-          description: 免费下载css和js模板
-        - title: Zion
-          logo: zion.ico
-          url: https://www.functorz.com/
-          description: 无代码开发微信小程序
-        - title: Markdown-badges
-          logo: badges.png
-          url: https://ileriayo.github.io/markdown-badges/
-          description: 获取markdown写法的badges包
-        - title: 1panel 
-          logo: 1panel.png
-          url: https://1panel.cn/
-          description: 开源的服务器web管理面板
-
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.ico
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云
-        - title: 腾讯云
-          logo: 腾讯云.ico
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.ico
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件
-        - title: Vultr
-          logo: vultr.webp
-          url: https://www.vultr.com/
-          description: 提供了全球多个数据中心，实时部署云服务器，具有高效稳定的性能和安全保障
-        - title: Aws
-          logo: aws.ico
-          url: https://aws.amazon.com/cn/
-          description: 亚马逊云服务，提供了包括计算、存储、数据库、网络等在内的各种云服务
-        - title: DigitalOcean
-          logo: do.ico
-          url: https://m.do.co/c/d88163487411
-          description: 数字海洋，它的特点是简单易用、强大的功能和优秀的性能
-        - title: Google Cloud
-          logo: 谷歌云.ico
-          url: https://cloud.google.com/
-          description: 基于云计算技术的云服务平台，提供包括计算、存储、数据库、网络等多种云服务
-        - title: Azure
-          logo: azure.ico
-          url: https://azure.microsoft.com/
-          description: 微软云提供了各种基础设施即服务（IaaS）、平台即服务（PaaS）和软件即服务（SaaS）
-        - title: Oracle
-          logo: Oracle.ico
-          url: https://www.oracle.com/cn/
-          description: 主要特点包括高性能、高可靠性、高扩展性、安全性好等优点
         - title: Vercel
           logo: vercel.ico
           url: https://vercel.com/
           description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取
-        - title: Railway
-          logo: railway.ico
-          url: https://railway.app/
-          description: 轻松地构建、部署和扩展django
-        - title: Heroku
-          logo: heroku.ico
-          url: https://www.heroku.com/
-          description: 云计算平台，快速构建、部署和托管Web应用程序
-        - title: Cloudflare
-          logo: cloudflare.ico
-          url: https://www.cloudflare.com/zh-cn/
-          description: 大伙都知道的CF
+
+    - term: 本地服务
+      links:
+        - title: iKuai
+          logo: 爱快.ico
+          url: 192.168.31.2
+          description: 
+        - title: 群晖
+          logo: 群晖.png
+          url: http://192.168.31.5:5000/
+          description: 
+        - title: 小米路由
+          logo: 路由.ico
+          url: 192.168.31.7
+          description: 
+        - title: ESXI
+          logo: esxi.svg
+          url: 192.168.31.110
+          description: 
 
     - term: 办公学习
       links:
