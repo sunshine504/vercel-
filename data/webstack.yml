@@ -56,7 +56,7 @@
   list:
     - term: 本地服务
       links:
-         - title: iKuai
+        - title: iKuai
           logo: 爱快.ico
           url: http://192.168.31.2/
           description: 
@@ -75,7 +75,7 @@
 
     - term: 常用收藏
       links:
-      - title: 蓝奏云 
+        - title: 蓝奏云 
           logo: 蓝奏云.ico
           url: https://pc.woozooo.com/
           description: 上传文件格式有限制
