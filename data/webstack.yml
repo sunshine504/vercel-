@@ -54,9 +54,28 @@
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
   list:
+    - term: 本地服务
+      links:
+         - title: iKuai
+          logo: 爱快.ico
+          url: http://192.168.31.2/
+          description: 
+        - title: 群晖
+          logo: 群晖.png
+          url: http://192.168.31.5:5000/
+          description: 
+        - title: 小米路由
+          logo: 路由.ico
+          url: http://192.168.31.7/
+          description: 
+        - title: ESXI
+          logo: esxi.svg
+          url: http://192.168.31.110/
+          description: 
+
     - term: 常用收藏
       links:
-        - title: 蓝奏云 
+      - title: 蓝奏云 
           logo: 蓝奏云.ico
           url: https://pc.woozooo.com/
           description: 上传文件格式有限制
@@ -79,26 +98,7 @@
         - title: Vercel
           logo: vercel.ico
           url: https://vercel.com/
-          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取
-
-    - term: 本地服务
-      links:
-        - title: iKuai
-          logo: 爱快.ico
-          url: http://192.168.31.2/
-          description: 
-        - title: 群晖
-          logo: 群晖.png
-          url: http://192.168.31.5:5000/
-          description: 
-        - title: 小米路由
-          logo: 路由.ico
-          url: http://192.168.31.7/
-          description: 
-        - title: ESXI
-          logo: esxi.svg
-          url: http://192.168.31.110/
-          description: 
+          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取 
 
     - term: 办公学习
       links:
