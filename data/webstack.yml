@@ -85,7 +85,7 @@
       links:
         - title: iKuai
           logo: 爱快.ico
-          url: 192.168.31.2
+          url: http://192.168.31.2/
           description: 
         - title: 群晖
           logo: 群晖.png
@@ -93,11 +93,11 @@
           description: 
         - title: 小米路由
           logo: 路由.ico
-          url: 192.168.31.7
+          url: http://192.168.31.7/
           description: 
         - title: ESXI
           logo: esxi.svg
-          url: 192.168.31.110
+          url: http://192.168.31.110/
           description: 
 
     - term: 办公学习
