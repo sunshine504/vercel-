@@ -83,10 +83,10 @@
           logo: feijipan.ico
           url: https://www.feijipan.com/
           description: 都可以分享
-        - title: 123云盘 
-          logo: 123.png
-          url: https://www.123pan.com/
-          description: 不能分享音乐
+        - title: BUFF 
+          logo: buff.ico
+          url: https://buff.163.com/market/csgo
+          description: 网易BUFF
         - title: 1panel 
           logo: 1panel.png
           url: https://1panel.cn/
