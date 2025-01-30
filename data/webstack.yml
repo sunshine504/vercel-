@@ -79,10 +79,10 @@
           logo: 蓝奏云.ico
           url: https://pc.woozooo.com/
           description: 上传文件格式有限制
-        - title: 小飞机网盘
-          logo: feijipan.ico
-          url: https://www.feijipan.com/
-          description: 都可以分享
+        - title: 阿里云盘
+          logo: 阿里云盘.ico
+          url: https://www.alipan.com/drive/file/all
+          description: 阿里云盘，你的数字世界
         - title: BUFF 
           logo: buff.ico
           url: https://buff.163.com/market/csgo
