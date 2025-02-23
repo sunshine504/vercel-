@@ -72,6 +72,10 @@
           logo: esxi.svg
           url: http://192.168.31.110/
           description: 
+        - title: Lucky
+          logo: Lucky.png
+          url: http://192.168.31.5:16601/
+          description: 内网穿透NAT映射
 
     - term: 常用收藏
       links:
